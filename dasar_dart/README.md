@@ -1,1 +1,2 @@
 # dart-dasar
+Directory dart dasar ini berisi tentang bahasa dart sederhana yang dapat menjadi sebuah catatan dasar belajar dart. Dart dasar ini bisa digunakan untuk pemula yang ingin mengetahui syntax dart secara dasar. 
